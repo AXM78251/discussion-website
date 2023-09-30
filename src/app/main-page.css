@@ -5,7 +5,7 @@ html {
 .nav-header {
     min-height: 10vh;
     box-sizing: border-box;
-    margin: 0;
+    margin-bottom: 5%;
 }
 
 .nav-header nav {
@@ -89,6 +89,11 @@ html {
 }
 
 .materials-container {
+    display: flex; 
+    flex-direction: column;
+}
+
+.resources-container {
     display: flex; 
     flex-direction: column;
 }
