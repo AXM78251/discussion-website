@@ -195,11 +195,7 @@ html {
         font-size: 100%;
     }
 
-    .change-link-text::after {
-        content: "";
-    }
-
-    .change-link-text::after {
+    .change-link-text {
         content: "Feed back";
     }
 }
