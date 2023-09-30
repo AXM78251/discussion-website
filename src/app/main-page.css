@@ -169,8 +169,8 @@ html {
     background-color: rgb(220, 228, 235);
 }
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 720px) {
     .nav-header nav ul li {
-        font-size: 100%;
+        font-size: 80%;
     }
 }
