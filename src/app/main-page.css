@@ -102,7 +102,28 @@ html {
     font-style: italic;
 }
 
+.resources-title{
+    font-family: garamond;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+    font-size: 200%;
+    font-style: italic;
+}
+
 .weekly-materials-description {
+    width: 50%;
+    font-family: garamond;
+    font-size: 125%;
+    color: #000;
+    text-align: center;
+    font-style: italic; 
+    margin: 0 auto;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.additional-resources-description {
     width: 50%;
     font-family: garamond;
     font-size: 125%;
@@ -171,6 +192,6 @@ html {
 
 @media screen and (max-width: 720px) {
     .nav-header nav ul li {
-        font-size: 90%;
+        font-size: 100%;
     }
 }
