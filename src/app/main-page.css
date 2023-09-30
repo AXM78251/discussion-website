@@ -199,9 +199,4 @@ html {
     .nav-header nav ul li {
         font-size: 100%;
     }
-
-    .change-link-text::first-line {
-        content: "Feed back";
-    }
-
 }

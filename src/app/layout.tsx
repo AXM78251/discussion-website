@@ -25,7 +25,7 @@ export default function RootLayout({
               <li><a href="https://cs61c.org/fa23/" target = "_blank">Course Website</a></li>
               <li><Link href = "/weekly-materials">Weekly Materials</Link></li>
               <li><Link href = "/">Home</Link></li>
-              <li><a className = "change-link-text" href="https://docs.google.com/forms/d/e/1FAIpQLSdUmRuEBrzXZeyEpAEF3qEWyKe6_xZ0mhQ0YXZ5ZlSpSy3kOA/viewform?usp=sf_link" target = "_blank">Feedback</a></li>
+              <li><a className = "change-link-text" href="https://docs.google.com/forms/d/e/1FAIpQLSdUmRuEBrzXZeyEpAEF3qEWyKe6_xZ0mhQ0YXZ5ZlSpSy3kOA/viewform?usp=sf_link" target = "_blank">Feed back</a></li>
               <li><a href ="/additional-resources">Additional Resources</a></li>
             </ul>
           </nav>
