@@ -98,16 +98,16 @@ html {
     font-weight: bold;
     color: #000;
     text-align: center;
-    font-size: xxx-large;
+    font-size: 200%;
     font-style: italic;
 }
 
 .weekly-materials-description {
     width: 750px;
     font-family: garamond;
+    font-size: 125%;
     color: #000;
     text-align: center;
-    font-size: xx-large;
     font-style: italic; 
     margin: 0 auto;
     margin-top: 1.5%;
@@ -124,15 +124,20 @@ html {
 .week-number {
     font-family: garamond;
     color: #000;
-    font-size: x-large;
+    font-size: 100%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
 }
 
 .slides-redirect {
     color: #000;
     border-style: box;
     font-family: garamond;
-    font-size: x-large;
+    font-size: 100%;
     text-align: center;
+    display: flex;
+    justify-content: center;
     align-items: center;
     background-color: rgb(200, 162, 255);
     height: 38px;
@@ -149,8 +154,10 @@ html {
     color: #000;
     border-style: box;
     font-family: garamond;
-    font-size: x-large;
+    font-size: 100%;
     text-align: center;
+    display: flex;
+    justify-content: center;
     align-items: center;
     height: 38px;
     width: 150px;
