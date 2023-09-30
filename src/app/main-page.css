@@ -200,7 +200,12 @@ html {
         font-size: 100%;
     }
 
-    .change-link-text {
+    .change-link-text::before{
         content: "Feed back";
     }
+
+    .change-link-text::after {
+        content: "Feed back";
+    }
+
 }
