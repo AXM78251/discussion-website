@@ -15,7 +15,7 @@ export default function Home() {
           <p> anthonysalinas78251@berkeley.edu </p>
           <br></br>
           <p> <b>Disc:</b> Tu 4-5:00PM @ <b>Soda 405</b></p>
-          <p> <b>OH:</b> Tu 7-8:00PM @ <b>Soda 283E/H</b>W 1-2:00PM @ <b>Soda 283E/H</b></p>
+          <p> <b>OH:</b> Tu 7-8:00PM @ <b>Soda 283E/H</b> & W 1-2:00PM @ <b>Soda 283E/H</b></p>
         </div>
       </div>
       <div className = "v-stack">
